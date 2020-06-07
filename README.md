@@ -1,2 +1,2 @@
 # Practical-Machine-Learning
-Project for John HOpkins Coursera Course
+Project for John Hopkins Coursera Course
